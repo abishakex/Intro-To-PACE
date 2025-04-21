@@ -20,7 +20,7 @@ You have to do the following steps:
 
 Access to PACE is only done via `ssh`. You need to have the GT VPN Client installed to access PACE whether or not you are on eduroam. Instructions on installing the GT VPN Client are provided within the [PACE documentation](https://docs.pace.gatech.edu/gettingStarted/vpn/). 
 
-The command to `ssh` into PACE is `ssh <gtusername>@login-phoenix-slurm@pace.gatech.edu`. An example with the username `gburdell3` looks like `ssh gburdell3@login-phoenix-slurm@pace.gatech.edu`. The [PACE documentation](https://docs.pace.gatech.edu/gettingStarted/logon/) provides additional information for this step. Remember that you need to follow the instructions for the Phoenix Cluster not the Hive Cluster.
+The command to `ssh` into PACE is `ssh <gtusername>@login-phoenix@pace.gatech.edu`. An example with the username `gburdell3` looks like `ssh gburdell3@login-phoenix@pace.gatech.edu`. The [PACE documentation](https://docs.pace.gatech.edu/gettingStarted/logon/) provides additional information for this step. Remember that you need to follow the instructions for the Phoenix Cluster not the Hive Cluster.
 
 You can also use your favorite IDE to access PACE via `ssh`. [VS Code](https://code.visualstudio.com/docs/remote/ssh) and PyCharm
 
